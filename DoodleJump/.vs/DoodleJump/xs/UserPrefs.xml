@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0579FB95-AFF7-D28B-1451-BB6E9DEDBD4B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Game-Jam-Assignment/Bird Game/Assets/Scripts/UiManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Muffin.cs" Line="28" Column="38" />
+      <File FileName="Assets/Scripts/CameraView.cs" Line="14" Column="13" />
+      <File FileName="Assets/Scripts/LevelGenerator.cs" Line="11" Column="19" />
+      <File FileName="../../Game-Jam-Assignment/Bird Game/Assets/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="../../Game-Jam-Assignment/Bird Game/Assets/Scripts/UiManager.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DoodleJump" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="14fd4a22-41dd-47e4-8d40-9bdca659e8ca" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
